@@ -4,13 +4,13 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: "https",
-        hostname: "",
+        hostname: "wp23.cryscampus.com",
         port: "",
         pathname: "/**",
       },
       {
         protocol: "https",
-        hostname: "",
+        hostname: "inhouse.cryscampus.com",
         port: "",
         pathname: "/**",
       },
